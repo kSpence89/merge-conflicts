@@ -2,8 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: probot
-  role: Contributor
+- project: probot ADDING
+  role: Contributor TEST
   duration: 2016 &mdash; Present
   url: "https://github.com/probot/probot"
   description: A framework for building GitHub Apps to automate and improve your workflow
